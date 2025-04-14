@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @loizecoutinho;
+- 💻 CS student;
 - 👀 I’m interested in Data Science and web development;
 - 🌱 I’m currently learning Python, C and JavaScript;
 - 💞️ I’m looking to collaborate on web and app projects;
