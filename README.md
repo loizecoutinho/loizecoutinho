@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loizecoutinho;
 - 👀 I’m interested in Data Science and web development;
-- 🌱 I’m currently learning Python, C and C++;
+- 🌱 I’m currently learning Python, C and JavaScript;
 - 💞️ I’m looking to collaborate on web and app projects;
 - 📬 You can reach me at www.linkedin.com/in/loíze-coutinho-71a20b30a ;
 - 😄 Pronouns: She/Her;
