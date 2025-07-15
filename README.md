@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Science and web development;
 - 🌱 I’m currently learning Python, C and Java;
 - 💞️ I’m looking to collaborate on web and app projects;
-- 📬 You can reach me at www.linkedin.com/in/loíze-coutinho-71a20b30a ;
+- 📬 You can reach me at www.linkedin.com/in/loíze-coutinho-704424375;
 - 😄 Pronouns: She/Her;
 - ⚡  Fun fact: I like to embroider and watch sitcoms.
 
