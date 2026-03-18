@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @loizecoutinho;
 - 💻 CS student;
-- 👀 I’m interested in Data Science and web development;
+- 👀 I’m interested in Data Science and AI;
 - 🌱 I’m currently learning Python, C and Java;
-- 💞️ I’m looking to collaborate on web and app projects;
+- 💞️ I’m looking to collaborate on projects;
 - 📬 You can reach me at www.linkedin.com/in/loíze-coutinho-704424375;
-- 😄 Pronouns: She/Her;
-- ⚡  Fun fact: I like to embroider and watch sitcoms.
 
 <!---
 loizecoutinho/loizecoutinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
